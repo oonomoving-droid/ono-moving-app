@@ -1,0 +1,24 @@
+{
+  "name": "大野引越サービス 見積・営業管理",
+  "short_name": "大野引越",
+  "description": "大野引越サービスの見積作成・クラウド保存・営業管理・売上集計・QR共有",
+  "start_url": "./ono-moving.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#a9212e",
+  "icons": [
+    {
+      "src": "./ono-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./ono-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
